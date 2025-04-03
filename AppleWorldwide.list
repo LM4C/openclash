@@ -1,0 +1,5 @@
+# NAME: AppleWorldwide
+# AUTHOR: LM4C
+# UPDATED: 2025-04-03
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI // Added for: apple-relay.cloudflare.com:443
+DOMAIN-SUFFIX,apple-relay.apple.com,AI // Added for: apple-relay.apple.com:443
